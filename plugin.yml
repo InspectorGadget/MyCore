@@ -1,0 +1,10 @@
+name: CustomCore
+version: 1.0.0
+api: 2.1.0
+author: IG
+commands:
+    gms:
+        permission: server.command.gamemode
+permissions:
+    server.command.gamemode:
+        default: op
